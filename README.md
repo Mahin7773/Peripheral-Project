@@ -18,7 +18,7 @@ Submitted for the Peripheral and Interfacing Lab.
 ![Circuit diagram](docs/circuit.svg)
 
 ## Setup
-![Setup](docs/wokwi-diagram.png)
+<img src="docs/wokwi-diagram.png" alt="Setup" width="600">
 
 ## How it works
 ![Flowchart](docs/flowchart.png)
