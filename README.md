@@ -21,7 +21,7 @@ Submitted for the Peripheral and Interfacing Lab.
 ![Setup](docs/wokwi-diagram.png)
 
 ## How it works
-<img src="docs/flowchart.png" alt="Flowchart" width="430">
+![Flowchart](docs/flowchart.png)
 
 ## How to run
 ### Wokwi (browser)
